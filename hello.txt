@@ -20,4 +20,4 @@ hello Git! hello guigu!
 hello Git! hello guigu!
 hello Git! hello guigu!
 hello Git! hello guigu!
-hello Git! hello guigh!
+hello Git! hello guigh! hot-fix test
